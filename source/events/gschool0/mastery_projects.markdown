@@ -32,7 +32,7 @@ Each group's code and production URL are listed below in order:
 #### Enigmates
 
 * Built by: Geoff Schorkopf
-* Production Site:
+* Production Site: http://enigmates.herokuapp.com/
 * Source Code: http://github.com/gschorkopf/enigmates
 
 #### Son of Poem Engine
